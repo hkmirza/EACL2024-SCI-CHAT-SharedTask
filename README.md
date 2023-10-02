@@ -1,6 +1,13 @@
 # EACL2024-SCI-CHAT-SharedTask
 The shared task for the Workshop on Simulation of Conversational Intelligence in Chat (SCI-CHAT) serves as a place to test and compare new and established research ideas in the field of open-domain dialogue and natural language processing.
 
+# Models Details
+**Baseline Models**
+* **Dialogue GPT** https://huggingface.co/microsoft/DialoGPT-large?text=Hey+my+name+is+Julien%21+How+are+you%3F
+* **Blenderbot** https://huggingface.co/facebook/blenderbot-400M-distill?text=Hey+my+name+is+Mariama%21+How+are+you%3F
+*  **GODEL** https://huggingface.co/microsoft/GODEL-v1_1-base-seq2seq/tree/main
+*  **T5** https://huggingface.co/microsoft/GODEL-v1_1-base-seq2seq/tree/main 
+
 # Human Evaluation Metrics
 Here are some commonly used human evaluation metrics for dialogue evaluation:
 * **Fluency:** Evaluate how smoothly and naturally the conversation flows. Human evaluators assess whether the dialogue responses are grammatically correct, coherent, and free from language errors.
