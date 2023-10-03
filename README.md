@@ -6,7 +6,9 @@ The shared task for the Workshop on Simulation of Conversational Intelligence in
 * **Dialogue GPT** https://huggingface.co/microsoft/DialoGPT-large?text=Hey+my+name+is+Julien%21+How+are+you%3F
 * **Blenderbot** https://huggingface.co/facebook/blenderbot-400M-distill?text=Hey+my+name+is+Mariama%21+How+are+you%3F
 *  **GODEL** https://huggingface.co/microsoft/GODEL-v1_1-base-seq2seq/tree/main
-*  **T5** https://huggingface.co/microsoft/GODEL-v1_1-base-seq2seq/tree/main 
+*  **T5** https://huggingface.co/microsoft/GODEL-v1_1-base-seq2seq/tree/main
+*  **GPT-3** https://openai.com/blog/gpt-3-apps
+*  **Llama-2** https://ai.meta.com/llama/
 
 # Human Evaluation Metrics
 Here are some commonly used human evaluation metrics for dialogue evaluation:
