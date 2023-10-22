@@ -8,6 +8,7 @@ The shared task for the Workshop on Simulation of Conversational Intelligence in
 *  **GODEL** https://huggingface.co/microsoft/GODEL-v1_1-base-seq2seq/tree/main
 *  **T5** https://huggingface.co/microsoft/GODEL-v1_1-base-seq2seq/tree/main
 *  **GPT-3** https://openai.com/blog/gpt-3-apps
+*  **GPT-3* small https://huggingface.co/TurkuNLP/gpt3-finnish-small?text=do+you+work
 *  **Llama-2** https://ai.meta.com/llama/
 
 # Human Evaluation Metrics
