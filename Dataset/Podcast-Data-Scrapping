@@ -1,0 +1,12 @@
+**Podcast Data Scrapping** 
+
+"At 'Freakonomics', podcasts are readily accessible and provided for free, allowing listeners to access both audio content and written scripts."
+https://freakonomics.com/
+You can scrap podcast scripts in textual form and use them for your shared task using the provided Python script.
+Instructions to use Python script to scrap podcast data:
+1.	First, make sure you have the required libraries installed:
+a.	pip install requests
+b.	pip install beautifulsoup4
+2.	Provide URL for a particular podcast – line 5
+3.	Provide path and file name to save podcast title and description – line 31
+4.	Provide path and file name to save podcast script – line 56
