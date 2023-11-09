@@ -11,3 +11,9 @@ The shared task for the Workshop on Simulation of Conversational Intelligence in
 *  **GPT-3* small https://huggingface.co/TurkuNLP/gpt3-finnish-small?text=do+you+work
 *  **Llama-2** https://ai.meta.com/llama/
 
+**Other possible datasets**
+
+* **Personachat** https://arxiv.org/pdf/1801.07243.pdf
+* **Switchboard** https://catalog.ldc.upenn.edu/LDC97S62
+* **MultiWOZ** https://github.com/budzianowski/multiwoz
+
