@@ -13,7 +13,7 @@ python preprocess.py --input_folder path/to/the/podcast/folder
 
 # Model Fine-tuning
 
-A walkthrough of how to fine DialoGPT can be found on [Hugging Face notebooks](https://huggingface.co/transformers/v2.11.0/notebooks.html) or [here](https://github.com/ncoop57/i-am-a-nerd/blob/master/_notebooks/2020-05-12-chatbot-part-1.ipynb). A step-by-step will be available soon here.
+A walkthrough of how to fine DialoGPT can be found on [Hugging Face notebooks](https://huggingface.co/transformers/v2.11.0/notebooks.html) or [here](https://github.com/ncoop57/i-am-a-nerd/blob/master/_notebooks/2020-05-12-chatbot-part-1.ipynb). A step-by-step to fine tune DialoGPT-medium on podacast data and pushing the model to huggingface-hubis available as `fine_tune.ipynb`.
 
 # Hosting API
 
